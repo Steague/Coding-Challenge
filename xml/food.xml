@@ -1,0 +1,8 @@
+<root>
+<instructions>
+<step order="1">Cook spaghetti</step>
+<step order="3">Add Sauce</step>
+<step order="2">Drain from pot</step>
+</instructions>
+<dish>Pasta</dish>
+</root>
